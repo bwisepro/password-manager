@@ -66,3 +66,7 @@ node_modules/
 .env
 
 key.json
+
+# PyInstaller build output
+build/
+dist/
